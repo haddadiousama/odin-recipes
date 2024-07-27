@@ -1,0 +1,18 @@
+.pink_class { 
+    background-color: lightpink;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+} 
+
+.font_size {
+    font-size: 24px;
+}
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div2 {
+    font-size: size 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
